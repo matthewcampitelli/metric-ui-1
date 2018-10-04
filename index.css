@@ -1,0 +1,40 @@
+body{
+    background-color: #4D5460;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: .80em;
+}
+
+#gauge-img-container{
+    width: 100%;
+    text-align: center;
+    padding-top: 75px;
+    width: 400px; 
+    margin: auto;
+}
+
+#gauge-img{
+    display: inline-block;
+    width: 310;
+    height: 122;
+
+}
+
+#main-display-area{
+	margin: auto;
+	width: 500px;
+	padding-top: 150px;
+}
+
+.title{
+	font-family: Roboto !important;
+	font-size: 22pt !important;
+	font-weight: 200 !important;
+}
+
+.title2{
+	padding: 10px;
+	font-size: 1.5em;
+}

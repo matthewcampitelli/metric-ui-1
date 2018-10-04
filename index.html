@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script src="./dist/main.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="./index.css">
+    </head>
+    <body>
+        <div id="main-display-area">
+            <div style="text-align: center">
+                <div class="title">Stepped Progress Control Component</div>
+                <div class="title2">
+                    Basic demonstration of display element used to provide visual indicator of level within a given range.
+                </div>
+                <div>
+                    <p>
+                        Give it a spin! Slide the position of the progress bar to adjust the current level of the metric, the bar progress indicator below will reflect the new value.
+                    </p>
+                    <p>
+                        Effect implemented in using third party GSAP animation library (awesomeness) using ES6 classes so that the effect can be applied to different UI components; i.e. variables such as number of display elements and starting and ending values of range may be dynamically assigned.
+                    <p>
+                </div>
+            </div>
+            <div id="gauge-img-container">
+                <div style="margin-bottom: 15px;">
+                    <div style="width: 390px;">
+                        <span style="float: left">0</span>
+                        <span style="float: right">100</span>
+                    </div>
+                    <div>
+                        <input type="range" size="5" min="1" max="100" id="value-indicator" value="0" style="width: 390px;"/>
+                    </div>
+                </div>
+
+                <div id="gauge-img">
+                    <object data="./gauge.svg" id="test" type="image/svg+xml"/>
+                </div>        
+            </div>
+        </div>
+    </body>
+</html>

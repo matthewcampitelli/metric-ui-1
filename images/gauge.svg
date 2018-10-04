@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311 123">
+   <defs>
+      <style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;}.cls-2{fill:#fff;opacity:0.05;}</style>
+   </defs>
+   <title>gauge</title>
+      <g id="border">
+         <rect id="outline1" class="cls-1" x="0.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline2" class="cls-1" x="31.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline3" class="cls-1" x="63.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline4" class="cls-1" x="94.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline5" class="cls-1" x="126.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline6" class="cls-1" x="158.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline7" class="cls-1" x="189.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline8" class="cls-1" x="221.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline8-2" data-name="outline8" class="cls-1" x="252.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="outline10" class="cls-1" x="284.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+      </g>
+      
+         <rect id="fill1" class="cls-2" x="0.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill2" class="cls-2" x="31.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill3" class="cls-2" x="63.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill4" class="cls-2" x="94.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill5" class="cls-2" x="126.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill6" class="cls-2" x="158.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill7" class="cls-2" x="189.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill8" class="cls-2" x="221.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill9" class="cls-2" x="252.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+         <rect id="fill10" class="cls-2" x="284.5" y="0.5" width="26" height="122" rx="12" ry="12" />
+
+</svg>
